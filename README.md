@@ -1,5 +1,5 @@
-# Name: T.KAVINAJAI
-# Register number: 212223100020
+# Name: SHYAM S
+# Register number: 212223240156
 # 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
